@@ -46,3 +46,5 @@ Github repos can't track changes across large files. Version control is suitable
 To try and keep track of data generation, it is a good rule of thumb to date generated data and store it outside of the repo. The data can then be referenced in the notes for the day that generated the data.
 
 It is also a good idea to keep track of what generated data mean (again, outside of the repo) by leaving a `README.md` in the folder associated with the data. 
+
+*Dates used throughout this repo are not real and are used for illustrative purposes only*
