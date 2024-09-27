@@ -30,7 +30,7 @@ Each notebook entry should explain **what** I did and **when**, **why** and **ho
     * What genome builds were used to perform this experiment?
     * What data was involved in this experiment? How was it generated?
     * What scripts(s) were run to produce the results in this experiment?
-        * For notebooks, provide the most recent commit. For shell scripts, attach a copy of the commands and std.out
+        * I've found it to be good practice to author a good commit each time new results are generated. This way it is abundantly clear what file version were used to generate results
 5) **Results**
     * Was there data generated during this experiment? If so, what is the filename/path?
     * Was there a figure generated? If so, explain what the figure is showing
